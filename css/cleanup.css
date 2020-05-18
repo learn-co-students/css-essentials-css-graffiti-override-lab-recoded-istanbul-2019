@@ -1,1 +1,29 @@
 /* write your override styles here */
+#wall .tag-1{
+padding: 10px;
+}
+
+body #wall #tag-2{
+background: white;
+}
+
+body div#wall #tag-3.wicked{
+    display:flexbox;
+}
+
+
+#wall .parent #tag-4{
+    margin: auto;
+}
+
+body div#wall .parent #tag-5.slick{
+    width: auto;
+}
+
+body div#wall div.parent div:last-child div#tag-6{
+    color:white;
+}
+
+html body div#wall div.parent div > #tag-7.slick{
+    background-color: black;
+}
